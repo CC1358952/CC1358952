@@ -44,7 +44,7 @@
 <!-- Project entries will go here -->
 - 📊 **[Financial Learning](https://github.com/CC1358952/UGAHacksX)**  
   HTML, CSS, Javascript application made during a Hackathon to gamify learning financial knowledge.
-- 🌤️ **[Financial Learning](https://github.com/CC1358952/NHL-Hometown-Weather)**  
+- 🌤️ **[Weather API App](https://github.com/CC1358952/NHL-Hometown-Weather)**  
   Java-based application utilizing multiple APIs to provide information on NHL players' hometown weather in real-time.
 
 ---
