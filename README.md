@@ -42,6 +42,8 @@
 
 ## 📂 Projects
 <!-- Project entries will go here -->
+- 📊 **[Financial Learning](https://github.com/CC1358952/UGAHacksX)**  
+  HTML, CSS< Javascript application made during a Hackathon to gamify learning financial knowledge.
 
 ---
 
