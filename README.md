@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Caleb Cort
 
-🎓 I'm a second-year Finance major at the **University of Georgia – Terry College of Business**, pursuing a **Computer Science minor** and a **FinTech certificate**.
+🎓 I'm a third-year Finance major at the **University of Georgia – Terry College of Business**, pursuing a **Computer Science minor** and certificates in  **FinTech** and **Applied Data Science**.
 
 💡 I’m passionate about merging **financial insights with technology and algorithms** to drive data-informed, people-first business decisions.
 
@@ -25,7 +25,7 @@
 ---
 
 ## 🛠️ Technical & Soft Skills
-- Programming: Java, C, basic shell scripting  
+- Programming: Java, C, Python, shell scripting
 - Financial modeling and analysis  
 - Public speaking & team leadership  
 - Fast learning & cross-functional collaboration  
